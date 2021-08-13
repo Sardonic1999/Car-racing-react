@@ -1,0 +1,48 @@
+.nav-con{
+    height: 78px;
+    background: #fbfcff;
+    border-bottom: 1px solid #F2F2F2;
+    padding: 0 61px 0 45px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-input1{
+    flex: 3;
+    margin-right: 34px;
+    height: 50px;
+    background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.nav-input2{
+    flex: 3;
+    height: 50px;
+    background: #FFFFFF;
+border: 1px solid #E7E7E7;
+box-sizing: border-box;
+border-radius: 5px;
+margin-right: 74px;
+
+}
+
+.nav-input2::placeholder{
+    color:black;
+}
+
+.nav-input1::placeholder{
+    color:black;
+}
+
+.fa{
+    font-size: 28px;
+    margin-right: 38px;
+}
+
+.userImg{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}

@@ -1,0 +1,91 @@
+.logoWrapper{
+    display: flex;
+    align-items: center;
+    margin-bottom: 86px;
+}
+
+.logo{
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+}
+
+.logo-text{
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #304858;
+}
+
+.sidebar{
+    padding-left: 43px;
+    border-right: 2px solid #F2F2F2;
+}
+
+.menu{
+    font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+margin-bottom: 19px;
+color: #3629B7;
+}
+
+.item{
+    display: flex;
+    margin-bottom: 0px;
+    align-items: center;
+}
+
+.last-item{
+    margin-bottom: 110px;
+}
+
+.item-text{
+    font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 17px;
+
+color: #838383;
+
+}
+
+.fa{
+    margin-right: 17px;
+    color: #838383;
+}
+
+.menu02{
+    font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #3629B7;
+}
+
+.item02{
+    display: flex;
+    margin-bottom: 0px;
+    align-items: center;
+}
+
+.item-text02{
+    font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #838383;
+}
+
+.last-item02{
+    margin-bottom: 100px;
+}
